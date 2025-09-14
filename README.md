@@ -36,7 +36,7 @@ The dashboard uses **interactive filters and parameters** to explore trends and 
 
 ## 🌐 Live Dashboard  
 
-👉 [Click here to view the interactive dashboard on Tableau Public](link-to-your-tableau-public-dashboard)  
+👉 [Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/shanmukha.sai.bada/viz/CustomerCompliantsDashboard/CustomerComplaintDashboard)  
 
 ---
 
